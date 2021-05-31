@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1587204097 source:c:\users\yash\documents\programming\c++\calender\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1587107587 c:\users\yash\documents\programming\c++\calender\calender.h
+
+1596875211 source:c:\users\yash\documents\programming\c++\calender\calender.c
+	<stdio.h>
+	"calender.h"
+	"date.h"
+	"interface.h"
+
+1587219120 source:c:\users\yash\documents\programming\c++\calender\date.c
+	<stdio.h>
+	<windows.h>
+	"date.h"
+
+1587217545 c:\users\yash\documents\programming\c++\calender\date.h
+
+1596875042 source:c:\users\yash\documents\programming\c++\calender\interface.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calender.h"
+	"date.h"
+	"interface.h"
+
+1589121700 c:\users\yash\documents\programming\c++\calender\interface.h
+
+1587218813 source:c:\users\yash\documents\programming\c++\calender\resource.rc
+
